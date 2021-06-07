@@ -1,0 +1,16 @@
+micronaut:
+  server:
+    port: 11200
+    cors:   
+         enabled: true
+  application:
+    name: micronautProject
+
+mail:
+  smtp:
+    host: smtp.gmail.com
+
+
+
+   
+
